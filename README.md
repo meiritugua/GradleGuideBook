@@ -1,5 +1,7 @@
 # Android Gradle 插件中文指南
 
+> 本开源书 forked from [Android Gradle 插件中文指南](https://github.com/yourtion/GradleGuideBook)，作者为 [yourtion](https://github.com/yourtion)，欢迎大家 star 原作者的 [repo](https://github.com/yourtion/GradleGuideBook)，以便获得最新更新，谢谢！
+
 ## 翻译
 
 内容由[飞雪无情](http://www.flysnow.org)提供翻译
